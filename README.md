@@ -2,7 +2,7 @@
 
 <!--
 **FelixJose28/FelixJose28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
