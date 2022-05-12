@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hello 👋! I'm Félix 
+<p>I'm full stack developer with experience in c#, JS, .NetCore, SQlServer Angular, SRSS, Html, Css, BootStrap  </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=FelixJose28&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-
-<div align="left">
+<br/>
+<h2  align="center">📫 Contact</h2>
+<div align="center">
 <a href="https://github.com/FelixJose28" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -13,17 +14,9 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-<!--
-### Hi theare 👋
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<h2  align="center">📈 Statistics</h2>
+<div align="center">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FelixJose28&theme=radical&layout=compact&exclude_lang=java+r" />
+<img src="https://github-readme-stats.vercel.app/api?username=FelixJose28&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+</div>
