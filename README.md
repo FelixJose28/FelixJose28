@@ -17,6 +17,6 @@
 <br/>
 <h2  align="center">📈 Statistics</h2>
 <div align="center"> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=FelixJose28&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=FelixJose28&show_icons=true&theme=algolia&locale=en&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=FelixJose28&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelixJose28&show_icons=true&theme=algolia&locale=en&layout=compact" />
 </div>
