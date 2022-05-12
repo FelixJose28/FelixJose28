@@ -20,3 +20,5 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FelixJose28&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=FelixJose28&show_icons=true&theme=algolia&locale=en&layout=compact" />
 </div>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default" />
