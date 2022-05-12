@@ -1,5 +1,5 @@
 ### Hello 👋! I'm Félix 
-<p>I'm full stack developer with experience in c#, JS, .NetCore, SQlServer Angular, SRSS, Html, Css, BootStrap  </p>
+<p>I'm full stack developer with experience in C#, JS, .NetCore, SQlServer, Angular, SRSS, Html, Css, BootStrap</p>
 
 <br/>
 <h2  align="center">📫 Contact</h2>
@@ -16,7 +16,7 @@
 </div>  
 <br/>
 <h2  align="center">📈 Statistics</h2>
-<div align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FelixJose28&theme=radical&layout=compact&exclude_lang=java+r" />
-<img src="https://github-readme-stats.vercel.app/api?username=FelixJose28&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<div align="center"> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=FelixJose28&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=FelixJose28&show_icons=true&theme=algolia&locale=en&layout=compact" />
 </div>
