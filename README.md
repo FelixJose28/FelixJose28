@@ -2,8 +2,8 @@
 <p>I'm full stack developer with experience in C#, JS, .NetCore, SQlServer, Angular, SRSS, Html, Css, BootStrap</p>
 
 <br/>
-<h2  align="center">📫 Contact</h2>
-<div align="center">
+<h2  align="">📫 Contact</h2>
+<div align="">
 <a href="https://github.com/FelixJose28" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -15,8 +15,8 @@
 </a>  
 </div>  
 <br/>
-<h2  align="center">📈 Statistics</h2>
-<div align="center"> 
+<h2  align="">📈 Statistics</h2>
+<div align=""> 
 <img src="https://github-readme-stats.vercel.app/api?username=FelixJose28&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelixJose28&show_icons=true&theme=algolia&locale=en&layout=compact" />
 </div>
